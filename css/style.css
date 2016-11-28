@@ -1,0 +1,15 @@
+ul#Lista {
+	list-style-type: none;
+	text-transform: uppercase;
+	color: blue;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+}
+
+button {
+	margin-left: 50%;
+	background-color: blue;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+}
